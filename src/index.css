@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+:root {
+  --primary: #EEEEEE;
+  --black: #EEEEEE;
+  --blackLighter: #EEEEEE;
+  --grayLight: #EEEEEE;
+  --grayMedium: #EEEEEE;
+  --white: #EEEEEE;
+  --frontEnd: #EEEEEE;
+  --backEnd: #EEEEEE;
+  --teste: #cb4040;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}

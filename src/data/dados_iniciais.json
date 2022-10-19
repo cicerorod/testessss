@@ -1,0 +1,105 @@
+{
+  "categorias": [
+    {
+      "titulo": "AZURE",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#444",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Criando nossa Conta Gratuita na Azure",
+          "url": "https://www.youtube.com/watch?v=4hfBby2evGg"
+        },
+        {
+          "titulo": "Criando nossa Conta Gratuita na Azure",
+          "url": "https://www.youtube.com/watch?v=4hfBby2evGg"
+        },
+        {
+          "titulo": "Azure Fundamentos (AZ-900) | Aprendendo na Prática ",
+          "url": "https://www.youtube.com/watch?v=mKDxMG1d76w"
+        },
+        {
+          "titulo": "Introdução ao Microsoft Azure",
+          "url": "https://www.youtube.com/watch?v=6i4SoJ8HEBY"
+        },
+        {
+          "titulo": "Fundamentos de nuvem Microsoft Azure na Prática",
+          "url": "https://www.youtube.com/watch?v=q1bZOr0U8A8"
+        },
+        {
+          "titulo": "Microsoft Azure Introdução a Computação em Nuvem Gratis",
+          "url": "https://www.youtube.com/watch?v=C-E9The0dTo"
+        }        
+        
+      ]
+    },
+    {
+      "titulo": "AWS",
+      "cor": "#444",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "O que é a AWS?",
+          "url": "https://www.youtube.com/watch?v=8JI9wQ8sUdQ"
+        },
+        {
+          "titulo": "O que é computação em nuvem com a AWS?",
+          "url": "https://www.youtube.com/watch?rsv1G1BbZu0"
+          
+        },
+        {
+          "titulo": "Migrando sistemas de arquivos para a AWS",
+          "url": "https://www.youtube.com/watch?v=iauNQZBHtF8"
+        },
+        {
+          "titulo": "Práticas para aumentar seu nível de segurança na Nuvem AWS",
+          "url": "https://www.youtube.com/watch?v=wkxTKq8m9QU"
+        },
+        {
+          "titulo": "Amazon EC2 para Iniciantes - Criando Servidor EC2 e Visão Geral EC2",
+          "url": "https://www.youtube.com/watch?v=fe6TJ1l4JhA"
+        }
+      ]
+    },
+    {
+      "titulo": "GCP",
+      "cor": "#444",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "INTRODUÇÃO GOOGLE CLOUD PLATFORM",
+          "url": "https://www.youtube.com/watch?v=Hc6LRGboqL4"
+        },
+      
+        {
+          "titulo": "Google Cloud Platform Full Course",
+          "url": "https://www.youtube.com/watch?v=m6ozQnqit50"
+        },
+        {
+          "titulo": "Desenvolver, implantar e depurar usando as Ferramentas para Desenvolvedores do Google Cloud (Cloud",
+          "url": "https://www.youtube.com/watch?v=yP9a5gDRUqY"
+        },
+        {
+          "titulo": "Crie sua conta grátis Google Cloud Platform",
+          "url": "https://www.youtube.com/watch?v=oLZUy9jFgx4"
+        },
+        {
+          "titulo": "Governança de Dados na prática usando o GCP",
+          "url": "https://www.youtube.com/watch?v=5-NtozDQVBQ"
+        }
+      ]
+    }
+    
+    
+    
+  ]
+}
